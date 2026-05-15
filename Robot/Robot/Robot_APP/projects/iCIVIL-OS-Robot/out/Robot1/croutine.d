@@ -1,0 +1,14 @@
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\croutine.c
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\include\FreeRTOS.h
+.\out\robot1\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\out\robot1\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\FreeRTOSConfig.h
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\include\projdefs.h
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\include\portable.h
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\include\deprecated_definitions.h
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\include\mpu_wrappers.h
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\include\task.h
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\include\list.h
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\include\croutine.h
+.\out\robot1\croutine.o: ..\..\os\FreeRTOS\Source\include\list.h

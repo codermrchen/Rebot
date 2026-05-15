@@ -1,0 +1,11 @@
+.\out\robot1\mqttsubscribeclient.o: ..\..\net\mqtt\mqttSubscribeClient.c
+.\out\robot1\mqttsubscribeclient.o: ..\..\net\mqtt\inc\MQTTPacket.h
+.\out\robot1\mqttsubscribeclient.o: ..\..\net\mqtt\inc\MQTTConnect.h
+.\out\robot1\mqttsubscribeclient.o: ..\..\net\mqtt\inc\MQTTPublish.h
+.\out\robot1\mqttsubscribeclient.o: ..\..\net\mqtt\inc\MQTTSubscribe.h
+.\out\robot1\mqttsubscribeclient.o: ..\..\net\mqtt\inc\MQTTUnsubscribe.h
+.\out\robot1\mqttsubscribeclient.o: ..\..\net\mqtt\inc\MQTTFormat.h
+.\out\robot1\mqttsubscribeclient.o: ..\..\net\mqtt\inc\StackTrace.h
+.\out\robot1\mqttsubscribeclient.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\out\robot1\mqttsubscribeclient.o: ..\..\net\mqtt\inc\MQTTPacket.h
+.\out\robot1\mqttsubscribeclient.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

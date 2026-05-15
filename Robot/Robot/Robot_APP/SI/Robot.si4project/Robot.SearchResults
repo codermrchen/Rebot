@@ -1,0 +1,8 @@
+---- _ultra_adc Matches (9 in 4 files) ----
+caculate_bat_vol in bat_task.c (user\Robot\tasks) : 		usMax = (_ultra_adc[i] > usMax) ? _ultra_adc[i] : usMax;
+caculate_bat_vol in bat_task.c (user\Robot\tasks) : 		usLess = (_ultra_adc[i] < usLess) ? _ultra_adc[i] : usLess;
+caculate_bat_vol in bat_task.c (user\Robot\tasks) : 		ulSum += _ultra_adc[i];
+ADC_ULTRAS_Init in bsp.c (driver\src) :     DMA_InitStructure.DMA_Memory0BaseAddr = (uint32_t)_ultra_adc;
+ADC_ULTRAS_Init in bsp.c (driver\src) :     DMA_InitStructure.DMA_Memory0BaseAddr = (uint32_t)_ultra_adc;
+platform.c (user\Robot) line 33 : uint16_t _ultra_adc[TGT_ULTRA_ADC_CHNS];
+platform.h (projects\iCIVIL-OS-Robot) line 39 : extern uint16_t _ultra_adc[];
